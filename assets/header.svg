@@ -1,19 +1,19 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="320" fill="#CFE7FA"/>
-  <path fill="#9FC4E2">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+  <rect width="1200" height="320" fill="#E3F2FF"/>
+  <path fill="#B8D9F2">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
       values="
-        M0 250C133 258 266 264 400 260C533 255 666 233 800 231C933 229 1066 248 1200 239V320H0V250Z;
-        M0 242C135 232 270 250 400 248C530 246 670 220 800 224C930 228 1065 256 1200 244V320H0V242Z;
-        M0 250C133 258 266 264 400 260C533 255 666 233 800 231C933 229 1066 248 1200 239V320H0V250Z" />
+        M0 248C133 260 266 270 400 264C533 258 666 224 800 220C933 216 1066 246 1200 234V320H0V248Z;
+        M0 235C145 220 280 250 410 244C545 238 676 208 810 212C950 216 1078 252 1200 240V320H0V235Z;
+        M0 248C133 260 266 270 400 264C533 258 666 224 800 220C933 216 1066 246 1200 234V320H0V248Z" />
   </path>
-  <path fill="#7FA9CC" opacity="0.75">
-    <animate attributeName="d" dur="13s" repeatCount="indefinite"
+  <path fill="#8EBCE0" opacity="0.78">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
       values="
-        M0 270C160 250 290 286 430 274C590 260 730 244 880 248C1020 252 1110 266 1200 258V320H0V270Z;
-        M0 262C135 278 285 248 430 252C580 256 750 282 900 270C1030 260 1120 242 1200 248V320H0V262Z;
-        M0 270C160 250 290 286 430 274C590 260 730 244 880 248C1020 252 1110 266 1200 258V320H0V270Z" />
+        M0 276C168 248 300 292 440 278C598 262 742 240 888 246C1030 252 1118 272 1200 260V320H0V276Z;
+        M0 258C142 286 292 242 440 248C592 254 760 290 910 272C1040 256 1130 236 1200 244V320H0V258Z;
+        M0 276C168 248 300 292 440 278C598 262 742 240 888 246C1030 252 1118 272 1200 260V320H0V276Z" />
   </path>
-  <text x="600" y="130" text-anchor="middle" fill="#20354A" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700">HI THERE</text>
-  <text x="600" y="215" text-anchor="middle" fill="#20354A" font-family="Arial, Helvetica, sans-serif" font-size="36">I am Cxin!</text>
+  <text x="600" y="130" text-anchor="middle" fill="#28435C" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700">HI THERE</text>
+  <text x="600" y="215" text-anchor="middle" fill="#28435C" font-family="Arial, Helvetica, sans-serif" font-size="36">I am Cxin!</text>
 </svg>
