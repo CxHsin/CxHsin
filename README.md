@@ -47,7 +47,7 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CxHsin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=CxHsin&theme=transparent&hide_border=false" alt="GitHub Streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CxHsin&theme=github_dark" alt="Productive Time" />
 </div>
 
 ## 💻 Top Languages
