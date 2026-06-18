@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F4B6C2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile;Building+while+learning;AI+Agents+%7C+Frontend)](https://github.com/CxHsin)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8FC6FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile;Building+while+learning;AI+Agents+%7C+Frontend)](https://github.com/CxHsin)
 
 </div>
 
@@ -63,4 +63,8 @@
 
 ### Still learning, still building.
 
+</div>
+
+<div align="center">
+  <img src="./assets/footer.svg" alt="Cxin Footer" width="100%" />
 </div>

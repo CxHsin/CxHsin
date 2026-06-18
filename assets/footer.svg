@@ -1,0 +1,19 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" fill="#D6ECFB"/>
+  <path fill="#A9CDE8" opacity="0.8">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="
+        M0 35C150 50 285 62 430 56C575 50 725 34 880 38C1010 42 1095 60 1200 48V0H0V35Z;
+        M0 28C155 18 295 46 430 44C590 42 735 22 880 28C1015 34 1110 18 1200 30V0H0V28Z;
+        M0 35C150 50 285 62 430 56C575 50 725 34 880 38C1010 42 1095 60 1200 48V0H0V35Z" />
+  </path>
+  <path fill="#89B7DA" opacity="0.65">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite"
+      values="
+        M0 24C175 10 315 28 470 26C630 24 760 12 920 20C1035 26 1115 40 1200 34V0H0V24Z;
+        M0 18C165 30 305 12 470 14C620 16 790 30 940 24C1045 20 1125 8 1200 14V0H0V18Z;
+        M0 24C175 10 315 28 470 26C630 24 760 12 920 20C1035 26 1115 40 1200 34V0H0V24Z" />
+  </path>
+  <text x="600" y="95" text-anchor="middle" fill="#20354A" font-family="Arial, Helvetica, sans-serif" font-size="28">Hope your program is bug-free!</text>
+  <text x="600" y="210" text-anchor="middle" fill="#15283A" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700">THE END</text>
+</svg>
