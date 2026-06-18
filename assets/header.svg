@@ -15,11 +15,11 @@
         M0 276C168 248 300 292 440 278C598 262 742 240 888 246C1030 252 1118 272 1200 260V320H0V276Z" />
   </path>
   <text x="600" y="130" text-anchor="middle" fill="#28435C" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700">
-    <animate attributeName="opacity" values="1;0.88;1" dur="3.8s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.96;0.82;0.96" dur="6.8s" repeatCount="indefinite" />
     HI THERE
   </text>
   <text x="600" y="215" text-anchor="middle" fill="#28435C" font-family="Arial, Helvetica, sans-serif" font-size="36">
-    <animate attributeName="opacity" values="1;0.9;1" dur="4.6s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.95;0.84;0.95" dur="7.6s" repeatCount="indefinite" />
     I am Cxin!
   </text>
 </svg>
