@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F4B6C2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile;Building+while+learning;AI+Agents+%7C+Frontend+%7C+Projects)](https://github.com/CxHsin)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F4B6C2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile;Building+while+learning;AI+Agents+%7C+Frontend)](https://github.com/CxHsin)
 
 </div>
 
@@ -35,13 +35,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 🚀 Featured Projects
-
-- [learn-agent](https://github.com/CxHsin/learn-agent) - My notes and experiments around AI agents
-- [learn-next-js](https://github.com/CxHsin/learn-next-js) - Frontend learning with Next.js and TypeScript
-- [Cxin-Blog](https://github.com/CxHsin/Cxin-Blog) - My blog for notes, ideas, and learning records
-- [hf-agent-course](https://github.com/CxHsin/hf-agent-course) - Practice from the Hugging Face Agent Course
 
 ## 📊 GitHub Stats
 
