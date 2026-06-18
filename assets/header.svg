@@ -1,6 +1,6 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="320" fill="#B58A95"/>
-  <path d="M0 250C133 258 266 264 400 260C533 255 666 233 800 231C933 229 1066 248 1200 239V320H0V250Z" fill="#8C6B76"/>
-  <text x="600" y="130" text-anchor="middle" fill="#2F2025" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700">HI THERE</text>
-  <text x="600" y="215" text-anchor="middle" fill="#2F2025" font-family="Arial, Helvetica, sans-serif" font-size="36">I am Cxin!</text>
+  <rect width="1200" height="320" fill="#8FB7D8"/>
+  <path d="M0 250C133 258 266 264 400 260C533 255 666 233 800 231C933 229 1066 248 1200 239V320H0V250Z" fill="#5F84A2"/>
+  <text x="600" y="130" text-anchor="middle" fill="#1E2D3D" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700">HI THERE</text>
+  <text x="600" y="215" text-anchor="middle" fill="#1E2D3D" font-family="Arial, Helvetica, sans-serif" font-size="36">I am Cxin!</text>
 </svg>
