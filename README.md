@@ -58,6 +58,7 @@
 ## 📫 Contact
 
 - GitHub: [@CxHsin](https://github.com/CxHsin)
+- Email: [cxhsin196@gmail.com](mailto:cxhsin196@gmail.com)
 
 <div align="center">
 
