@@ -1,34 +1,28 @@
 <div align="center">
+  <img src="./assets/header.svg" alt="Cxin Header" width="100%" />
+</div>
 
-# Hi there, I'm Cxin
+<div align="center">
 
-### A learner who builds with code
-
-I care about AI agents, frontend engineering, and small projects that turn ideas into something usable.
-
-[![GitHub followers](https://img.shields.io/github/followers/CxHsin?style=for-the-badge&logo=github&label=Followers)](https://github.com/CxHsin)
-[![Profile Views](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FCxHsin%2Fgithub-profile&color=2f81f7)](https://github.com/CxHsin)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F4B6C2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile;Building+while+learning;AI+Agents+%7C+Frontend+%7C+Projects)](https://github.com/CxHsin)
 
 </div>
 
-<br>
+## 👋 About Me
 
-# About Me
+- I am currently focused on AI agents, frontend engineering, and building practical side projects
+- I like learning in public through code, notes, and small iterations
+- I am exploring how ideas can become useful products and developer tools
+- I am building steadily with Next.js, TypeScript, and modern web workflows
 
-- Focused on AI agents, frontend development, and practical side projects
-- Learning in public through building, documenting, and iterating
-- Interested in how ideas become usable products and tools
-- Currently exploring agent workflows, modern web stacks, and personal knowledge systems
+## 🌱 Current Focus
 
-<br>
+- AI agent workflows and experiments
+- Frontend practice with React, Next.js, and TypeScript
+- Personal blog building and knowledge organization
+- Shipping small projects to learn end to end
 
-# Socials
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CxHsin)
-
-<br>
-
-# Tech Stack
+## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,44 +36,38 @@ I care about AI agents, frontend engineering, and small projects that turn ideas
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br>
+## 🚀 Featured Projects
 
-# Featured Projects
+- [learn-agent](https://github.com/CxHsin/learn-agent) - My notes and experiments around AI agents
+- [learn-next-js](https://github.com/CxHsin/learn-next-js) - Frontend learning with Next.js and TypeScript
+- [Cxin-Blog](https://github.com/CxHsin/Cxin-Blog) - My blog for notes, ideas, and learning records
+- [hf-agent-course](https://github.com/CxHsin/hf-agent-course) - Practice from the Hugging Face Agent Course
 
-- [learn-agent](https://github.com/CxHsin/learn-agent) - A place for my AI agent experiments, notes, and workflow practice
-- [learn-next-js](https://github.com/CxHsin/learn-next-js) - Hands-on learning with Next.js, TypeScript, and frontend patterns
-- [Cxin-Blog](https://github.com/CxHsin/Cxin-Blog) - My blog for writing down notes, ideas, and what I learn along the way
-- [hf-agent-course](https://github.com/CxHsin/hf-agent-course) - Study notes and exercises from the Hugging Face Agent Course
-
-<br>
-
-# GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CxHsin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://nirzak-streak-stats.vercel.app/?user=CxHsin&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<br>
-
-# Top Languages
+## 💻 Top Languages
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxHsin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-<br>
-
-# Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CxHsin&theme=github-compact" alt="Contribution Graph" />
 </div>
 
-<br>
+## 📫 Contact
+
+- GitHub: [@CxHsin](https://github.com/CxHsin)
 
 <div align="center">
 
-> Still learning, still building.
+### Still learning, still building.
 
 </div>
