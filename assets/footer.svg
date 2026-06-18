@@ -14,6 +14,12 @@
         M0 14C168 34 308 10 474 12C624 14 794 34 946 24C1050 18 1128 6 1200 12V0H0V14Z;
         M0 22C176 6 320 30 474 26C634 22 768 8 926 18C1040 24 1120 42 1200 34V0H0V22Z" />
   </path>
-  <text x="600" y="95" text-anchor="middle" fill="#28435C" font-family="Arial, Helvetica, sans-serif" font-size="28">Hope your program is bug-free!</text>
-  <text x="600" y="210" text-anchor="middle" fill="#1E354A" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700">THE END</text>
+  <text x="600" y="95" text-anchor="middle" fill="#28435C" font-family="Arial, Helvetica, sans-serif" font-size="28">
+    <animate attributeName="opacity" values="1;0.9;1" dur="4.2s" repeatCount="indefinite" />
+    Hope your program is bug-free!
+  </text>
+  <text x="600" y="210" text-anchor="middle" fill="#1E354A" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700">
+    <animate attributeName="opacity" values="1;0.86;1" dur="3.6s" repeatCount="indefinite" />
+    THE END
+  </text>
 </svg>
