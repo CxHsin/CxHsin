@@ -39,20 +39,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CxHsin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CxHsin&theme=github_dark" alt="Productive Time" />
-</div>
-
-## 💻 Top Languages
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxHsin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CxHsin&theme=github-compact" alt="Contribution Graph" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CxHsin&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CxHsin&theme=transparent&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 📫 Contact
