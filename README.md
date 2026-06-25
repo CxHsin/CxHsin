@@ -36,13 +36,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🚀 Featured Projects
-
-- [learn-agent](https://github.com/CxHsin/learn-agent) - My notes and experiments around AI agents
-- [learn-next-js](https://github.com/CxHsin/learn-next-js) - Frontend learning with Next.js and TypeScript
-- [Cxin-Blog](https://github.com/CxHsin/Cxin-Blog) - My blog for notes, ideas, and learning records
-- [hf-agent-course](https://github.com/CxHsin/hf-agent-course) - Practice from the Hugging Face Agent Course
-
 ## 📊 GitHub Stats
 
 <div align="center">
